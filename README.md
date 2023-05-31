@@ -6,7 +6,8 @@ You will now see =GPT and =DALLE functions in cells!
 
 ![GPT](https://user-images.githubusercontent.com/126917465/222830747-9f2749a3-ae61-4a99-9b77-ae2c397517fb.png)
 
-![DALLE](https://user-images.githubusercontent.com/126917465/222830758-0dbc372f-5c94-492c-88a6-667e192537d4.png)
+![DALLE](https://github.com/Marcus-LeVere/OpenBID-Tools/assets/126917465/3d9d24ed-eccf-4d2e-a41b-3e6a413b05be)
+
 
 Best of luck bidding!
 
