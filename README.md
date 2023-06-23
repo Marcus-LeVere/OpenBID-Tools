@@ -1,4 +1,4 @@
-# Add ChapGPT and DALL-E to Google Sheets
+# Add ChatGPT and DALL-E to Google Sheets
 
 Create a new Apps Script in your OpenBID spreadsheet (extensions > Apps Script) and paste in [this code](https://github.com/Marcus-LeVere/OpenBID-Tools/blob/main/OpenAI-Functions.gs). Click the run button to authorise it. It will fail this first time, but this is fine. It just needs inputs from the spreadsheet to run.
 
